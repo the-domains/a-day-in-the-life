@@ -1,7 +1,7 @@
 name: A Day In The Life
 favicon: null
-layout_spectrum: 0.026071672327816486
-typography_spectrum: 0.4098351593129337
+layout_spectrum: 0.84464545478113
+typography_spectrum: 0.05771750980056822
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6583056214731187
-  lightness: 0.13290457567200065
-  saturation: 0.7393093577120453
-  rhythmicContrast: 0.33153959456831217
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7473189465235919
+  lightness: 0.6930989385582507
+  saturation: 0.9453987888991833
+  rhythmicContrast: 0.28267370350658894
 purpose: []
