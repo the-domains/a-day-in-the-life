@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=1039815610389126842'
@@ -21,13 +21,17 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/5uKsnZJl66/?taken-by=ptonewreckin'
 title: 'There are gems, then there are rubies. Joshua Tree is without doubt the most underrated National Park in the United States. The decision to voyage into the Mojave was complete spur of the moment and the reward was one of the most epic voyages in my lifetime #JoshuaTree #Desert #Coyote #camping #Sunset #moon #hiddengem #goexplore'
-datePublished: '2016-01-23T20:12:41.391Z'
-dateModified: '2016-01-23T20:09:53.109Z'
+datePublished: '2016-01-23T23:28:25.333Z'
+dateModified: '2016-01-23T23:28:20.845Z'
 sourcePath: _posts/2016-01-23-there-are-gems-then-there-are-rubies-joshua-tree-is-withou.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
