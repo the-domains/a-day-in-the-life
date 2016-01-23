@@ -4,22 +4,8 @@
         <description><![CDATA[Testing out the Grid... ]]></description>
         <link>https://thegrid.ai/a-day-in-the-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 20:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 20:13:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/a-day-in-the-life/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Never let fear impede accomplishment. #GoPro #Hero4 #Portland #Waterfalls #Explore #Meow]]></title>
-            <description><![CDATA[<article><h1>Never let fear impede accomplishment. #GoPro #Hero4 #Portland #Waterfalls #Explore #Meow</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a56285c92ceb9852c80801a229c42f262b636cec.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/5YTtFHpl30/?taken-by=ptonewreckin</link>
-            <guid isPermaLink="false">a106738a-7e9a-466f-8f97-a3724010b6bb</guid>
-            <pubDate>Sat, 23 Jan 2016 20:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who wants to go rafting!!? #Yellowstone #GrandCanyon #Waterfalls #NationalParks #DrewsJealous #GoPro #Hero4 #liveoutdoors #GoProOfTheDay #Murica #Meow]]></title>
-            <description><![CDATA[<article><h1>Who wants to go rafting!!? #Yellowstone #GrandCanyon #Waterfalls #NationalParks #DrewsJealous #GoPro #Hero4 #liveoutdoors #GoProOfTheDay #Murica #Meow</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ae5951830227a35c53b5af7b1a02e2a55fc95d3.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/5S-FNdJl5s/?taken-by=ptonewreckin</link>
-            <guid isPermaLink="false">49fbdcf6-5d14-4002-bbb7-c1457f17769d</guid>
-            <pubDate>Sat, 23 Jan 2016 20:12:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Live from Red Rocks! #Colorado #GoPro]]></title>
             <description><![CDATA[<article><h1>Live from Red Rocks! #Colorado #GoPro</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab7e8b57c7cef6309869c27df6d0ecb4c75a787.jpg"></article>]]></description>
@@ -74,6 +60,13 @@
             <description><![CDATA[<article><h1>Had a pretty cool looking sunset last night. A number of storm clouds had rolled through along with volcanic ash in the air</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17ec3b50b86523cb69f0b6743948715455a5375b.png"></article>]]></description>
             <link>urn:uuid:e8d14cd1-2c4e-4a44-a86f-357504db54ac</link>
             <guid isPermaLink="false">a9caf2d6-afd0-4b2c-a209-a2cee10b75a0</guid>
+            <pubDate>Sat, 23 Jan 2016 19:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caught this beauty during sunset the other night. Happy new year!]]></title>
+            <description><![CDATA[<article><h1>Caught this beauty during sunset the other night. Happy new year!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca8c10193e044685016e48e04f3807c619eff9b3.png"></article>]]></description>
+            <link>urn:uuid:faa2a992-92ba-4fee-be99-dddedc467dbc</link>
+            <guid isPermaLink="false">6d681739-30a5-4558-99b1-ec171201a7b5</guid>
             <pubDate>Sat, 23 Jan 2016 19:43:21 GMT</pubDate>
         </item>
     </channel>
